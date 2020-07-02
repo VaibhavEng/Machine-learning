@@ -1,3 +1,3 @@
 # Machine-learning
 Supervised Learning
-open file with google colab
+Read data with respective dataset first
